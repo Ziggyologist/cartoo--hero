@@ -1,0 +1,19 @@
+body {margin:0;font-family: 'Pangolin', cursive, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    line-height:30px;}
+
+header {background-color: burlywood;text-align: center;padding-top: 10px; padding-bottom: 10px;
+    ;}
+header h1 {color:white; font-size: 50px; }
+header img {border-radius: 150px;border:10px solid whitesmoke;}
+h1,h1{font-family: 'Pangolin', cursive;}
+main {max-width: 800px; margin:0 auto;padding:20px;}
+main img{max-width: 100px;}
+h2{font-size: 30px; color:orange; background-color: whitesmoke;}
+p{font-size: 20px;color:lightslategrey;}
+a{color:brown;}
+a:hover{background-color: honeydew; color:green;}
+footer{background-color:whitesmoke; color:grey;
+padding:50px;}
+footer p{margin:0;font-style:italic;}
+footer a:hover{opacity:40}
